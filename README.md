@@ -14,6 +14,8 @@ A simple, clean, and responsive **To-Do List** application built with **HTML**, 
 - 📱 Fully responsive design
 
 ---
+[![View on GitHub Pages](https://img.shields.io/badge/View-Live%20Demo-blue?style=for-the-badge&logo=github)](https://ryhthm09.github.io/TodoApp/)
+
 
 ## 📸 Demo
 
